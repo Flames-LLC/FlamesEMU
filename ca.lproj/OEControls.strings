@@ -1,0 +1,90 @@
+
+/* Preferences: Library (OEPrefLibraryController.xib) */
+
+"Move..." = "Move...";  // TODO
+
+"Move to Default Location" = "Move to Default Location";  // TODO
+
+"Organization Methods:" = "Mètodes d'organització:";
+
+"Game Library Folder Location:" = "Ubicació de la carpeta de la biblioteca dels jocs:";
+
+"Copy files to Game Library folder when adding to library" = "En afegir els jocs, copia els fitxers a la carpeta de la biblioteca";
+
+"Automatically lookup game information & artwork" = "Cerca informació i imatges dels jocs automàticament";
+
+"Available Libraries:" = "Biblioteques disponibles:";
+
+"Reset all dialog warnings:" = "Restableix tots els diàlegs d'avís:";
+
+"Reset Warnings" = "Restableix els avisos";
+
+
+/* Preferences: Gameplay (OEPrefGameplayController.xib) */
+
+"Window Management:" = "Gestió de les finestres:";
+
+"Shader:" = "Shader:";
+
+"Always use popout gameplay window" = "Fes servir una finestra per el joc";
+
+"Always launch games fullscreen" = "Executa els jocs en pantalla completa";
+
+"Always pause gameplay when in background" = "Pausa la partida quan la finestra estigui en segon pla";
+
+"Always snap popout gameplay window to integer scale" = "Always snap popout gameplay window to integer scale";  // TODO
+
+"Allow playing with controllers when in background" = "No deshabilitis els controladors quan la finestra estigui en segon pla";
+
+"Always float popout gamplay window on top" = "Always float popout gamplay window on top"; // TODO
+
+
+/* Preferences: Controls (OEPrefControlsController.xib) */
+
+"Input:" = "Disp.:"; // TODO (Resolve abbreviation)
+
+
+/* Issue Resolver (OEGameScanner.xib) */
+
+"Resolve Issues:" = "Corregeix les incidències d'importació:";
+
+"Apply" = "Aplica";
+
+"Import Into:" = "Importa a:";
+
+
+/* Setup Assistant (OESetupAssistant.xib) */
+
+"Next" = "Següent";
+
+"Back" = "Enrere";
+
+"Welcome to OpenEmu!" = "Benvingut a l'OpenEmu";
+
+"An exciting world of video games is within your grasp. To help you get started, we’d like to ask you a few quick questions which will guide you through the following…\n\n• Ensure you are running the correct system plugins (cores)." = "Un món de videojocs està al teu abast. Per ajudar-vos a començar, ens agradaria preguntar-vos algunes preguntes ràpides que us guiaran a través del següent…\n\n• Assegureu-vos que esteu fent servir els connectors dels sistemes correctes (nuclis).";
+
+"Click on the ‘Next’ button to begin!" = "Feu clic al botó 'Següent' per començar.";
+
+"OpenEmu is modular, and thanks to the work of other great open source projects, it can emulate a wide variety of video game systems (‘cores’). A select few require you tick and confirm that you want to install and use them. Your favorite game systems and games may not run without these cores." = "L'OpenEmu és modular, i gràcies a la feina feta per altres projectes de codi obert pot emular una àmplia varietat de sistemes de videojocs (‘nuclis’). Alguns nuclis requereixen que marqueu i confirmeu la seva instal·lació. Potser els vostres sistemes i jocs preferits no funcionaran sense aquests nuclis.";
+
+"System Cores Installation" = "Instal·lació dels nuclis dels sistemes";
+
+"Let’s Go!" = "Som-hi!";
+
+"Great! You are all setup now and ready to get gaming!\n\nRemember you can change both your keyboard and gamepad controls for yourself and other players via the Preferences at any time." = "Genial! Ja està tot a punt per jugar.\n\nRecordeu que podeu canviar la configuració del teclat i dels controladors a les Preferències en qualsevol moment.";
+
+"Click the ‘Go’ button to begin your adventure." = "Feu clic al botó 'Vés' per començar.";
+
+"Go" = "Vés";
+
+"Downloading Data…" = "Downloading Data…";  // TODO
+
+
+/* Shader Parameters (ShaderParameters.xib) */
+
+"Reset All" = "Reset All";  // TODO
+
+
+/* Sidebar Header (OESidebarHeaderView.xib) */
+
+"Edit" = "Editar";
